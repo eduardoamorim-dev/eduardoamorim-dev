@@ -6,11 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduamorim&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-  <div>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=caduamorim">
-  </a>
-  
+<div>
+  <a href="https://github.com/caduamorim/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=your-github-caduamorim"></a>  
 </div>
 
   ##
