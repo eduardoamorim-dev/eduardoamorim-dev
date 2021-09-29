@@ -8,7 +8,7 @@
   
 <div>
   <a href="https://github.com/caduamorim/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=your-github-caduamorim"></a>  
+  <img src="https://komarev.com/ghpvc/?username=your-github-caduamorim&color=orange"></a>  
 </div>
 
   ##
