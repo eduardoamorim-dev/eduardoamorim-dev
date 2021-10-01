@@ -50,6 +50,9 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-caduamorim&color=orange"></a>  
 </div>
   
+<div>
+<a href="https://github.com/caduamorim/github-readme-activity-graph"><img alt="Cadu Amorim Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=caduamorim&bg_color=0D1117&color=91b303&line=62ab7f&point=FFFFFF&hide_border=true" /></a>
+</div>
   ---
 
 
