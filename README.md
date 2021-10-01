@@ -39,22 +39,25 @@
 
 ## 📑 Informações sobre minha conta GitHub
 
-<div align="left">
+<br>
+<div align="center"> 
   <a href="https://github.com/caduamorim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caduamorim&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduamorim&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-<div>
+<div align="center">
   <a href="https://github.com/caduamorim/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=your-github-caduamorim&color=orange"></a>  
 </div>
   
 <div>
-<a href="https://github.com/caduamorim/github-readme-activity-graph"><img alt="Cadu Amorim Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=caduamorim&bg_color=0D1117&color=91b303&line=62ab7f&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/caduamorim/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=caduamorim&bg_color=0D1117&color=91b303&line=62ab7f&point=FFFFFF&hide_border=true"/> </a>
 </div>
-  ---
+  
+##
 
+---
 
 <div> 
   <a href="https://www.instagram.com/caduamorimm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
