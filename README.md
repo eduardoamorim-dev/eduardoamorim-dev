@@ -1,4 +1,4 @@
-## 🧑‍💻 Olá, sejam bem vindo (a) pode me chamar de <strong>{Cadu Amorim}!</strong>
+## 🧑‍💻 Olá, seja bem vindo (a) pode me chamar de <strong>{Cadu Amorim}!</strong>
 
 > Meu nome é Carlos Eduardo Amorim Silva, tenho 22 anos, sou solteiro, brasileiro e atualmente moro em Guarapari-ES. <p> Sou apaixonado por tecnologia e programação, atualmente estou cursando análise e desenvolvimento de sistemas na Pontifícia Universidade Católica de Minas Gerais. Acredito que um bom desenvolvedor, além de conhecimento em tecnologia, deve se interessar pelo mundo, ter paixão em conhecimento técnico, cultural e humano.
 
