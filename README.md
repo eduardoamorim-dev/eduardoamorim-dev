@@ -6,6 +6,14 @@ Meu nome é Carlos Eduardo Amorim Silva, tenho 22 anos, sou solteiro, brasileiro
 
 ---
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPaulaBuchholz&hide=html&layout=compact&theme=monokai" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AnaPaulaBuchholz&theme=monokai"/></td>
+    </tr>   
+</table>
+
 ## 🚀 Minhas Skills
 
 > Aplicações e Dados
