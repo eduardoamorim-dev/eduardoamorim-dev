@@ -13,10 +13,12 @@ Meu nome é Carlos Eduardo Amorim Silva, tenho 22 anos, sou solteiro, brasileiro
 <a><img height="25" src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white" alt="HTML5" style="vertical-align:top margin:6px 4px"></a>
 <a><img height="25" src="https://img.shields.io/badge/-CSS-%23379bd7?logo=css3&logoColor=whitee" alt="CSS" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white" alt="Javascript" style="vertical-align:top margin:6px 4px"/></a>
+
+<!-- Futuras skills 
 <a><img height="25" src="https://img.shields.io/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white" alt="Bootstrap" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-C%23-7b3399?logo=C-Sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white" alt="React" style="vertical-align:top margin:6px 4px"/></a>
-<a><img height="25" src="https://img.shields.io/badge/-MySQL-323332?logo=MySQL&colorlogo=white" alt="MySQL" style="vertical-align:top margin:6px 4px"/></a>
+<a><img height="25" src="https://img.shields.io/badge/-MySQL-323332?logo=MySQL&colorlogo=white" alt="MySQL" style="vertical-align:top margin:6px 4px"/></a> -->
 
 ##
 
@@ -32,8 +34,10 @@ Meu nome é Carlos Eduardo Amorim Silva, tenho 22 anos, sou solteiro, brasileiro
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20XD-%23181717?logo=Adobe-XD&logocolor=white" alt="AdobeXD" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20Photoshop-%23181717?logo=Adobe-Photoshop&logocolor=white" alt="Ph" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%235C2D91?logo=Visual-Studio-Code&colorlogo=white" style="vertical-align:top margin:6px 4px"/></a>
+
+<!-- Futuras skills 
 <a><img height="25" src="https://img.shields.io/badge/-Azure%20DevOps-%230078D7?logo=Azure-DevOps&colorlogo=white" alt="Azure" style="vertical-align:top margin:6px 4px"/></a> 
-<a><img height="25" src="https://img.shields.io/badge/-Trello-%230052CC?logo=Trello&colorlogo=white" alt="Trello" style="vertical-align:top margin:6px 4px"/></a>
+<a><img height="25" src="https://img.shields.io/badge/-Trello-%230052CC?logo=Trello&colorlogo=white" alt="Trello" style="vertical-align:top margin:6px 4px"/></a> -->
 
 #
 
