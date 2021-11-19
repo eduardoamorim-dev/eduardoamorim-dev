@@ -2,7 +2,7 @@
 ![matrix e752cfaf](https://user-images.githubusercontent.com/86995782/142670003-04a3bfd4-4dcf-421a-854f-dcdb3931bddb.gif)
 
 
-## 🧑‍💻 Olá, seja bem vindo (a) pode me chamar de <strong>{Cadu Amorim}!</strong><p>
+## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a) pode me chamar de <strong>{Cadu Amorim}!</strong><p></div>
 
 Meu nome é Carlos Eduardo Amorim Silva, tenho 22 anos, sou solteiro, brasileiro e atualmente moro em Guarapari-ES. Sou apaixonado por tecnologia e desenvolvimento, acredito que um bom desenvolvedor além de conhecimento em tecnologia, deve se interessar pelo mundo, ter paixão em conhecimento técnico, cultural e humano. 
 
