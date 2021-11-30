@@ -66,13 +66,13 @@ Sou idealizador do projeto <strong>Audição Amiga.</strong> Uma plataforma onde
 
 
 <div align="center"> 
-  <a href="https://github.com/caduamorim">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caduamorim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduamorim&layout=compact&langs_count=7&theme=gotham"/>
+  <a href="https://github.com/caduamorimm-dev">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caduamorimm-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduamorimm-dev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div align="center">
-<p><img alingn="center" src="https://profile-counter.glitch.me/caduamorimm/count.svg" /></p>  
+<p><img alingn="center" src="https://profile-counter.glitch.me/caduamorimm-dev/count.svg" /></p>  
 </div>
   
 <div>
