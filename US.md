@@ -9,7 +9,7 @@ My name is Carlos Eduardo Amorim Silva, I'm 22 years old, I'm single, Brazilian 
 
 I'm currently studying the basic requirements of web development with a focus on front-end: programming logic, algorithms and the "triad" HTML, CSS and JavaScript. I intend to keep improving my skills until I acquire enough knowledge to become a full stack.
 
-I'm the creator of the <strong>Auição Amiga project.</strong> A platform where the intention is to make YouTube videos available in subtitles for a better understanding of hearing impaired users. I do my best to bring a little more accessibility to the audiovisual world!
+I'm the creator of the <strong>Audição Amiga project.</strong> A platform where the intention is to make YouTube videos available in subtitles for a better understanding of hearing impaired users. I do my best to bring a little more accessibility to the audiovisual world!
 
 ---
 
