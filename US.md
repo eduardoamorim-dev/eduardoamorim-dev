@@ -26,9 +26,9 @@ I'm the creator of the <strong>Auição Amiga project.</strong> A platform where
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 MY Skills
 
-> Aplicações e Dados
+> Applications and Data
 
 <a><img height="25" src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white" alt="HTML5" style="vertical-align:top margin:6px 4px"></a>
 <a><img height="25" src="https://img.shields.io/badge/-CSS-%23379bd7?logo=css3&logoColor=whitee" alt="CSS" style="vertical-align:top margin:6px 4px"/></a>
@@ -49,7 +49,7 @@ I'm the creator of the <strong>Auição Amiga project.</strong> A platform where
 
 #
 
-> Ferramentas de Desenvolvimento
+> Development Tools
 
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20XD-%23181717?logo=Adobe-XD&logocolor=white" alt="AdobeXD" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20Photoshop-%23181717?logo=Adobe-Photoshop&logocolor=white" alt="Ph" style="vertical-align:top margin:6px 4px"/></a>
@@ -63,7 +63,7 @@ I'm the creator of the <strong>Auição Amiga project.</strong> A platform where
 
 ---
 
-## 📑 Informações sobre minha conta GitHub
+## 📑 Information about my GitHub account
 
 
 <div align="center"> 
