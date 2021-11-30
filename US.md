@@ -1,7 +1,7 @@
 #
 ![matrix e752cfaf](https://user-images.githubusercontent.com/86995782/142670003-04a3bfd4-4dcf-421a-854f-dcdb3931bddb.gif)
 
-<div align="center">Change language: <a href="https://github.com/nycolexavierr/01-github-explorer/blob/main/READMEeng.md" target="_blank">🇺🇸</a> 🇸</div>
+<div align="center">Change language: <a href="https://github.com/caduamorimm-dev/caduamorimm-dev/blob/main/README.md" target="_blank">PT-BR</a></div>
 
 ## <div align="center"> 🧑‍💻 Hello welcome I'm known as <strong>{Cadu Amorim}!</strong><p></div>
 
