@@ -3,7 +3,7 @@
 
 <div align="center">Mudar idioma: <a href="https://github.com/caduamorimm-dev/caduamorimm-dev/blob/main/README.md" target="_blank">PT-BR</a></div>
 
-## <div align="center"> 🧑‍💻 Hello welcome I'm known as <strong>{Cadu Amorim}!</strong><p></div>
+## <div align="center"> 🧑‍💻 Hello, welcome I'm known as <strong>{Cadu Amorim}!</strong><p></div>
 
 My name is Carlos Eduardo Amorim Silva, I'm 22 years old, I'm single, Brazilian and currently I live in Guarapari-ES. I am passionate about technology and development, I believe that a good developer, in addition to technology knowledge, should be interested in the world, have a passion for technical, cultural and human knowledge.
 
