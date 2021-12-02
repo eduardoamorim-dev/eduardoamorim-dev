@@ -7,7 +7,7 @@
 
 Meu nome é Carlos Eduardo Amorim Silva, tenho 22 anos, sou solteiro, brasileiro e atualmente moro em Guarapari-ES. Sou apaixonado por tecnologia e desenvolvimento, acredito que um bom desenvolvedor além de conhecimento em tecnologia, deve se interessar pelo mundo, ter paixão em conhecimento técnico, cultural e humano. 
 
-Atualmente estou estudando os requisitos básica do desenvolvimento web com foco em front-end: lógica da programação, algoritmos e a "tríade" HTML, CSS e JavaScript. Pretendo ir aperfeiçoando minhas skills até adquirir conhecimento suficiente para me tornar um full stack.
+Atualmente estou estudando os requisitos básicos do desenvolvimento web com foco em front-end: lógica da programação, algoritmos e a "tríade" HTML, CSS e JavaScript. Pretendo ir aperfeiçoando minhas skills até adquirir conhecimento suficiente para me tornar um full stack.
 
 Sou idealizador do projeto <strong>Audição Amiga.</strong> Uma plataforma onde o intuito é disponiblizar vídeos do YouTube de forma legendada para um melhor entendimento de usuários deficientes auditivos. Faço o possível para trazer um pouco mais de acessibilidade para o mundo audiovisual! 
 
