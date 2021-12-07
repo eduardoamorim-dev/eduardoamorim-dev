@@ -5,7 +5,7 @@
 
 ## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a) pode me chamar de <strong>{Cadu Amorim}!</strong><p></div>
 
-Meu nome é Carlos Eduardo Amorim Silva, tenho 22 anos, sou solteiro, brasileiro e atualmente moro em Guarapari-ES. Sou apaixonado por tecnologia e desenvolvimento, acredito que um bom desenvolvedor além de conhecimento em tecnologia, deve se interessar pelo mundo, ter paixão em conhecimento técnico, cultural e humano. 
+Meu nome é Carlos Eduardo Amorim Silva, tenho 22 anos, sou solteiro, brasileiro e atualmente moro em Guarapari-ES. Fascinado por tecnologia e desenvolvimento, acredito que um bom desenvolvedor além de conhecimento em tecnologia, deve se interessar pelo mundo, ter paixão em conhecimento técnico, cultural e humano. 
 
 Atualmente estou estudando os requisitos básicos do desenvolvimento web com foco em front-end: lógica da programação, algoritmos e a "tríade" HTML, CSS e JavaScript. Pretendo ir aperfeiçoando minhas skills até adquirir conhecimento suficiente para me tornar um full stack.
 
