@@ -5,11 +5,11 @@
 
 ## <div align="center"> 🧑‍💻 Hello, welcome I'm known as <strong>{Cadu Amorim}!</strong><p></div>
 
-My name is Carlos Eduardo Amorim Silva, I'm 22 years old, I'm single, Brazilian and currently I live in Guarapari-ES. I am passionate about technology and development, I believe that a good developer, in addition to technology knowledge, should be interested in the world, have a passion for technical, cultural and human knowledge.
+Fascinated by technology, development and communication. I believe that a good developer, in addition to technology knowledge, must be interested in the world, have a passion for technical, cultural and human knowledge.
 
-I'm currently studying the basic requirements of web development with a focus on front-end: programming logic, algorithms and the "triad" HTML, CSS and JavaScript. I intend to keep improving my skills until I acquire enough knowledge to become a full stack.
+I'm currently studying the basic requirements of web development with a focus on front-end: programming logic, algorithms and the "triad" HTML, CSS and JavaScript and in parallel I've been studying C#. I intend to keep improving my skills until I acquire enough knowledge to become a full stack.
 
-I'm the creator of the <strong>Audição Amiga project.</strong> A platform where the intention is to make YouTube videos available in subtitles for a better understanding of hearing impaired users. I do my best to bring a little more accessibility to the audiovisual world!
+I am the creator of the Audição Amiga project, a platform where the intention is to make YouTube videos available in subtitles for a better understanding of hearing impaired users. I do my best to bring a little more accessibility to the audiovisual world and consequently do the least, which is to give dignity and freedom to a disadvantaged group in the midst of technology. I am developing the system as I acquire new knowledge to implement, it is currently not available for use.
 
 ---
 
