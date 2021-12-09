@@ -52,6 +52,7 @@ Sou idealizador do projeto Audição Amiga, uma plataforma onde o intuito é dis
 > Ferramentas de Desenvolvimento
 
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20XD-%23181717?logo=Adobe-XD&logocolor=white" alt="AdobeXD" style="vertical-align:top margin:6px 4px"/></a>
+<a><img height="25" src="https://img.shields.io/badge/-Figma-%23181717?logo=Figma&colorlogo=white" alt="AdobeXD" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20Photoshop-%23181717?logo=Adobe-Photoshop&logocolor=white" alt="Ph" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%235C2D91?logo=Visual-Studio-Code&colorlogo=white" style="vertical-align:top margin:6px 4px"/></a>
 
