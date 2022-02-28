@@ -9,7 +9,7 @@ Fascinado por tecnologia, desenvolvimento e comunicação. Acredito que um bom d
 
 Atualmente estou estudando os requisitos básicos do desenvolvimento web com foco em front-end: lógica da programação, algoritmos e a "tríade" HTML, CSS e JavaScript e em paralelo venho estudando C#. Pretendo ir aperfeiçoando minhas skills até adquirir conhecimento suficiente para me tornar um full stack.
 
-Sou idealizador do projeto Audição Amiga, uma plataforma onde o intuito é disponibilizar vídeos do YouTube de forma legendada para um melhor entendimento de usuários deficientes auditivos. Faço o possível para trazer um pouco mais de acessibilidade para o mundo audiovisual e consequentemente fazer o mínimo que é dar dignidade e liberdade para um grupo desfavorecido em meio a tecnologia. Estou desenvolvendo o sistema na medida em que vou adquirindo novos conhecimentos para implementar, no momento não está disponível pra uso.
+<!-- Sou idealizador do projeto Audição Amiga, uma plataforma onde o intuito é disponibilizar vídeos do YouTube de forma legendada para um melhor entendimento de usuários deficientes auditivos. Faço o possível para trazer um pouco mais de acessibilidade para o mundo audiovisual e consequentemente fazer o mínimo que é dar dignidade e liberdade para um grupo desfavorecido em meio a tecnologia. Estou desenvolvendo o sistema na medida em que vou adquirindo novos conhecimentos para implementar, no momento não está disponível pra uso. -->
 
 ---
 
