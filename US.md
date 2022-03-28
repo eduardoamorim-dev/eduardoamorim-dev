@@ -5,9 +5,12 @@
 
 ## <div align="center"> 🧑‍💻 Hello, welcome I'm known as <strong>{Cadu Amorim}!</strong><p></div>
 
-Fascinated by technology, development and communication. I believe that a good developer, in addition to technology knowledge, must be interested in the world, have a passion for technical, cultural and human knowledge.
+Fascinated by technology, development and communication. I believe that a good programmer, in addition to knowledge in technology, should be interested in the world, have a passion for technical, cultural and human knowledge.
 
-I'm currently studying the basic requirements of web development with a focus on front-end: programming logic, algorithms and the "triad" HTML, CSS and JavaScript and in parallel I've been studying C#. I intend to keep improving my skills until I acquire enough knowledge to become a full stack.
+I am currently studying:
+
+- Programming logic and algorithms.
+- I chose C# technology to start in the programming world.
 
 <!--  I am the creator of the Audição Amiga project, a platform where the intention is to make YouTube videos available in subtitles for a better understanding of hearing impaired users. I do my best to bring a little more accessibility to the audiovisual world and consequently do the least, which is to give dignity and freedom to a disadvantaged group in the midst of technology. I am developing the system as I acquire new knowledge to implement, it is currently not available for use. -->
 
