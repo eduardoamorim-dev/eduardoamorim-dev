@@ -58,6 +58,7 @@ Atualmente estou estudando:
 <a><img height="25" src="https://img.shields.io/badge/-Figma-%23181717?logo=Figma&colorlogo=white" alt="Figma" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20XD-%23181717?logo=Adobe-XD&logocolor=white" alt="AdobeXD" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20Photoshop-%23181717?logo=Adobe-Photoshop&logocolor=white" alt="Ph" style="vertical-align:top margin:6px 4px"/></a>
+<a><img height="25" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual-Studio&colorlogo=white" alt="VisualStudioCode" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&colorlogo=white" alt="VisualStudioCode" style="vertical-align:top margin:6px 4px"/></a>
 
 
