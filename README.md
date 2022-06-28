@@ -5,9 +5,7 @@
 
 ## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a) pode me chamar de <strong>{Cadu Amorim}!</strong><p></div>
 
-Fascinado por tecnologia, desenvolvimento e comunicação. Acredito que um bom programador além de conhecimento em tecnologia, deve se interessar pelo mundo, ter paixão em conhecimento técnico, cultural e humano.
-
-Atualmente estou estudando: 
+Fascinado por tecnologia, desenvolvimento e comunicação. Atualmente estou estudando: 
 
 - Lógica da programação e algoritmos.
 - Escolhi a tecnologia C# para iniciar no mundo da programação.
