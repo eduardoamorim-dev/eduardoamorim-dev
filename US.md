@@ -10,7 +10,7 @@ Fascinated by technology, development and communication. I believe that a good p
 I am currently studying:
 
 - Programming logic and algorithms.
-- I chose C# technology to start in the programming world.
+- I chose C technology to start in the programming world.
 
 <!--  I am the creator of the Audição Amiga project, a platform where the intention is to make YouTube videos available in subtitles for a better understanding of hearing impaired users. I do my best to bring a little more accessibility to the audiovisual world and consequently do the least, which is to give dignity and freedom to a disadvantaged group in the midst of technology. I am developing the system as I acquire new knowledge to implement, it is currently not available for use. -->
 
