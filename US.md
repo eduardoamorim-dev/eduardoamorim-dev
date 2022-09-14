@@ -33,11 +33,11 @@ I am currently studying:
 
 > Applications and Data
 
+
 <a><img height="25" src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white" alt="HTML5" style="vertical-align:top margin:6px 4px"></a>
 <a><img height="25" src="https://img.shields.io/badge/-CSS-%23379bd7?logo=css3&logoColor=whitee" alt="CSS" style="vertical-align:top margin:6px 4px"/>
-<a><img height="25" src="https://img.shields.io/badge/C-%23181717?logo=C&logoColor=white%22%20alt=%22" alt="C" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/C++-00599C?logo=Cplusplus&logoColor=white%22%20" alt="C++" style="vertical-align:top margin:6px 4px"/></a>
-
+<a><img height="25" src="https://img.shields.io/badge/C-%23181717?logo=C&logoColor=white%22%20alt=%22" alt="C" style="vertical-align:top margin:6px 4px"/></a>
 <!-- Futuras skills 
 <a><img height="25" src="https://img.shields.io/badge/-MySQL-323332?logo=MySQL&colorlogo=white" alt="MySQL" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-C%23-7b3399?logo=C-Sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"/></a>
