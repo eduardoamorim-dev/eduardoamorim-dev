@@ -1,5 +1,7 @@
 #
-![matrix e752cfaf](https://user-images.githubusercontent.com/86995782/142670003-04a3bfd4-4dcf-421a-854f-dcdb3931bddb.gif)
+
+<div align="center"> <img src= "https://user-images.githubusercontent.com/86995782/191570487-92a0d0d9-f5d7-4212-a8ab-ea5fd3973dc9.gif"/> </div>
+<-- ![matrix e752cfaf](https://user-images.githubusercontent.com/86995782/142670003-04a3bfd4-4dcf-421a-854f-dcdb3931bddb.gif) -->
 
 <div align="center">Change language: <a href="https://github.com/caduamorimm-dev/caduamorimm-dev/blob/main/US.md" target="_blank">🇺🇸</a></div>
 
