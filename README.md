@@ -5,10 +5,11 @@
 
 ## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a) pode me chamar de <strong>{Cadu Amorim}!</strong><p></div>
 
-Fascinado por tecnologia, desenvolvimento e comunicação. Atualmente estou estudando: 
+Fascinado por tecnologia, desenvolvimento e comunicação.
+Aprimorando minhas skills para desenvolvimento back-end. Atualmente estou estudando: 
 
-- Lógica da programação e algoritmos.
-- Escolhi a tecnologia C para iniciar no mundo da programação.
+- Lógica da programação, algoritmos e estrutura de dados.
+- Escolhi a linguagem C como base para iniciar no mundo da programação.
 
 <!-- Sou idealizador do projeto Audição Amiga, uma plataforma onde o intuito é disponibilizar vídeos do YouTube de forma legendada para um melhor entendimento de usuários deficientes auditivos. Faço o possível para trazer um pouco mais de acessibilidade para o mundo audiovisual e consequentemente fazer o mínimo que é dar dignidade e liberdade para um grupo desfavorecido em meio a tecnologia. Estou desenvolvendo o sistema na medida em que vou adquirindo novos conhecimentos para implementar, no momento não está disponível pra uso. -->
 
