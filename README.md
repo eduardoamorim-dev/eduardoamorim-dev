@@ -25,8 +25,8 @@ Aprimorando minhas skills para desenvolvimento back-end. Atualmente estou estuda
 <!-- gmail -->
   <a href = "mailto:amorimm.dev@gmail.com"><img height="25" src="https://img.shields.io/badge/-Gmail-%230A0A0A?logo=Gmail&colorlogo=white" style="vertical-align:top margin:6px 4px"></a>
 <!-- dev.to -->
- <!-- <a href="https://dev.to/caduamorim" target="_blank"><img height="25" src="https://img.shields.io/badge/-Dev.to-%230A0A0A?logo=dev.to&colorlogo=white" style="vertical-align:top margin:6px 4px"></a>
-</div> -->
+ <!-- <a href="https://dev.to/caduamorim" target="_blank"><img height="25" src="https://img.shields.io/badge/-Dev.to-%230A0A0A?logo=dev.to&colorlogo=white" style="vertical-align:top margin:6px 4px"></a>-->
+</div> 
 
 ---
 
