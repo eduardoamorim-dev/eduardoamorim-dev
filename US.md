@@ -50,7 +50,7 @@ Improving my skills for backend development. I am currently studying:
 <a><img height="25" src="https://img.shields.io/badge/-C%23-7b3399?logo=C-Sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white" alt="Bootstrap" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white" alt="React" style="vertical-align:top margin:6px 4px"/></a>
-<a><img height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white" alt="Javascript" style="vertical-align:top margin:6px 4px"/></a>
+<a><img height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white" alt="Javascript" style="vertical-align:top margin:6px 4px"/></a> -->
 
 
 ##
