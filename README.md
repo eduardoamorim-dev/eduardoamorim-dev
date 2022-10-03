@@ -85,9 +85,9 @@ Aprimorando minhas skills para desenvolvimento back-end. Atualmente estou estuda
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduamorimm-dev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-<div align="center">
+<!-- <div align="center">
 <p><img alingn="center" src="https://profile-counter.glitch.me/caduamorimm-dev/count.svg" /></p>  
-</div>
+</div>  -->
   
 <div>
 <a href="https://github.com/caduamorimm-dev/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=caduamorimm-dev&bg_color=0D1117&color=248e76&line=99d1cd&point=FFFFFF&hide_border=true"/> </a>
