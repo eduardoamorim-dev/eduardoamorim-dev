@@ -21,7 +21,7 @@ Aprimorando minhas skills para desenvolvimento back-end. Atualmente estou estuda
 
 <div align="center">
 <!-- Curriculo -->
-  <a href="https://drive.google.com/file/d/1plmOcuGwHwbdVjlmBwpAM6TxkMfwoEUW/view" target="_blank"><img height="25" src="https://img.shields.io/badge/-Baixar%20Curriculo-6400AA?logo=Betfair&colorlogo=white"    style="vertical-align:top margin:6px 4px"></a>
+  <a href="https://drive.google.com/file/d/1plmOcuGwHwbdVjlmBwpAM6TxkMfwoEUW/view" target="_blank"><img height="25" src="https://img.shields.io/badge/-Baixar%20Curriculo-383f61?logo=Betfair&colorlogo=white"    style="vertical-align:top margin:6px 4px"></a>
 <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/carlos-eduardo-amorim-silva-34583b214/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
 <!-- instagram -->
