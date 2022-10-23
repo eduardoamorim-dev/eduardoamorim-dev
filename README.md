@@ -13,11 +13,15 @@ Aprimorando minhas skills para desenvolvimento back-end. Atualmente estou estuda
 - Lógica da programação, algoritmos e estrutura de dados.
 - Escolhi a linguagem C como base para iniciar no mundo da programação.
 
+
+
 <!-- Sou idealizador do projeto Audição Amiga, uma plataforma onde o intuito é disponibilizar vídeos do YouTube de forma legendada para um melhor entendimento de usuários deficientes auditivos. Faço o possível para trazer um pouco mais de acessibilidade para o mundo audiovisual e consequentemente fazer o mínimo que é dar dignidade e liberdade para um grupo desfavorecido em meio a tecnologia. Estou desenvolvendo o sistema na medida em que vou adquirindo novos conhecimentos para implementar, no momento não está disponível pra uso. -->
 
 ---
 
 <div align="center">
+<!-- Curriculo -->
+  <a href="https://drive.google.com/file/d/1plmOcuGwHwbdVjlmBwpAM6TxkMfwoEUW/view" target="_blank"><img height="25" src="https://img.shields.io/badge/-Baixar%20Curriculo-6400AA?logo=Betfair&colorlogo=white"    style="vertical-align:top margin:6px 4px"></a>
 <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/carlos-eduardo-amorim-silva-34583b214/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
 <!-- instagram -->
