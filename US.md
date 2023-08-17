@@ -2,20 +2,20 @@
 
 ![matrix e752cfaf](https://user-images.githubusercontent.com/86995782/142670003-04a3bfd4-4dcf-421a-854f-dcdb3931bddb.gif)
 
-<div align="center">Mudar idioma: <a href="https://github.com/caduamorimm-dev/caduamorimm-dev/blob/main/README.md" target="_blank">:brazil:</a></div>
 
 ## <div align="center"> 🧑‍💻 Hello, welcome I'm known as <strong>{Cadu Amorim}!</strong><p></div>
 
-Fascinated by technology, development and communication. I believe that a good programmer, in addition to knowledge in technology, should be interested in the world, have a passion for technical, cultural and human knowledge.
+🧑‍💻 Software Development Intern with a strong interest in crafting efficient and user-centered solutions.
 
-I am currently studying:
+🎓 Currently pursuing a degree in Systems Analysis and Development at the Federal Institute of Triângulo Mineiro.
 
-Fascinated by technology, development and communication.
-Improving my skills for backend development. I am currently studying:
+🔭 Working on personal projects to enhance my skills and expand my portfolio.
 
-- Programming logic, algorithms and data structure.
-- I chose the C language as a base to start in the programming world.
+🌱 Actively learning JavaScript, ReactJS, and TypeScript to stay up-to-date with industry trends.
 
+👯 Open to collaborations and seeking opportunities to contribute to innovative projects.
+
+📫 Feel free to reach out to me at amorimm.dev@gmail.com for any inquiries or opportunities. My portfolio will be available soon.
 
 
 <!--  I am the creator of the Audição Amiga project, a platform where the intention is to make YouTube videos available in subtitles for a better understanding of hearing impaired users. I do my best to bring a little more accessibility to the audiovisual world and consequently do the least, which is to give dignity and freedom to a disadvantaged group in the midst of technology. I am developing the system as I acquire new knowledge to implement, it is currently not available for use. -->
