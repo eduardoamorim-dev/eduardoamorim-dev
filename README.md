@@ -14,7 +14,8 @@
 
 👯 Aberto(a) a colaborações e buscando contribuir para projetos inovadores.
 
-📫 Entre em contato comigo em amorimm.dev@gmail.com para qualquer dúvida ou oportunidade. Meu portfólio estara disponível em breve.
+
+<!-- 📫 Entre em contato comigo em amorimm.dev@gmail.com para qualquer dúvida ou oportunidade. Meu portfólio estara disponível em breve. -->
 
 <!--  ⚡ Curiosidade: Tenho grande afinidade por projetos de código aberto e acredito em retribuir à comunidade de desenvolvedores." -->
 
