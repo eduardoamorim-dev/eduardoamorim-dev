@@ -4,7 +4,9 @@
 
 ## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a). Pode me chamar de <strong>{Cadu Amorim}!</strong><p></div>
 
-Estagiário em Desenvolvimento de Software com grande interesse em criar soluções eficientes e centradas no usuário. Atualmente cursando Análise e Desenvolvimetno de Sistemas no Instituto Federal do Triângulo Mineiro e empolgado para aplicar minhas habilidades técnicas em projetos do mundo real. Ansioso para aprender e colaborar com profissionais experientes na área. Apaixonado por código limpo, resolução de problemas e melhoria contínua.
+🧑‍💻 Estagiário em Desenvolvimento de Software com grande interesse em criar soluções eficientes e centradas no usuário. 
+
+ 🎓 Atualmente cursando Análise e Desenvolvimetno de Sistemas no Instituto Federal do Triângulo Mineiro.
 
 🔭 Trabalhando em projetos pessoais para aprimorar minhas habilidades e expandir meu portfólio.
 
