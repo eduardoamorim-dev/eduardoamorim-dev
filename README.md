@@ -4,15 +4,18 @@
 
 ## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a). Pode me chamar de <strong>{Cadu Amorim}!</strong><p></div>
 
-Fascinado por tecnologia, desenvolvimento e comunicação.
-Aprimorando minhas skills para desenvolvimento back-end. Atualmente estou estudando: 
+Estagiário em Desenvolvimento de Software com grande interesse em criar soluções eficientes e centradas no usuário. Atualmente cursando Análise e Desenvolvimetno de Sistemas no Instituto Federal do Triângulo Mineiro e empolgado para aplicar minhas habilidades técnicas em projetos do mundo real. Ansioso para aprender e colaborar com profissionais experientes na área. Apaixonado por código limpo, resolução de problemas e melhoria contínua.
 
-- Lógica da programação, algoritmos e estrutura de dados.
-- Escolhi a linguagem C como base para iniciar no mundo da programação.
+🔭 Trabalhando em projetos pessoais para aprimorar minhas habilidades e expandir meu portfólio.
 
+🌱 Aprendendo ativamente JavaScript, ReactJS, NodeJS para me manter atualizado(a) com as tendências do setor.
 
+👯 Aberto(a) a colaborações e buscando contribuir para projetos inovadores.
 
-<!-- Sou idealizador do projeto Audição Amiga, uma plataforma onde o intuito é disponibilizar vídeos do YouTube de forma legendada para um melhor entendimento de usuários deficientes auditivos. Faço o possível para trazer um pouco mais de acessibilidade para o mundo audiovisual e consequentemente fazer o mínimo que é dar dignidade e liberdade para um grupo desfavorecido em meio a tecnologia. Estou desenvolvendo o sistema na medida em que vou adquirindo novos conhecimentos para implementar, no momento não está disponível pra uso. -->
+📫 Entre em contato comigo em amorimm.dev@gmail.com para qualquer dúvida ou oportunidade. Meu portfólio estara disponível em breve.
+
+<!--  ⚡ Curiosidade: Tenho grande afinidade por projetos de código aberto e acredito em retribuir à comunidade de desenvolvedores." -->
+
 
 ---
 
