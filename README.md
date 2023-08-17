@@ -6,7 +6,7 @@
 
 🧑‍💻 Estagiário em Desenvolvimento de Software com grande interesse em criar soluções eficientes e centradas no usuário. 
 
- 🎓 Atualmente cursando Análise e Desenvolvimetno de Sistemas no Instituto Federal do Triângulo Mineiro.
+ 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Triângulo Mineiro.
 
 🔭 Trabalhando em projetos pessoais para aprimorar minhas habilidades e expandir meu portfólio.
 
