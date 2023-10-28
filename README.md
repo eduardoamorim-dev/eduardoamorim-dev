@@ -100,7 +100,13 @@
 <a href="https://github.com/caduamorimm-dev/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=caduamorimm-dev&bg_color=0D1117&color=248e76&line=99d1cd&point=FFFFFF&hide_border=true"/> </a>
 </div>
  -->
+
+---
+
+##  Github Profile Trophy 🏆
   
+
+![trophy](https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark)
 
   
 ##
