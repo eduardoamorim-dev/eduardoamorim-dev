@@ -101,13 +101,6 @@
 </div>
  -->
 
----
-
-##  Github Profile Trophy 🏆
-  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark)
-
   
 ##
 
