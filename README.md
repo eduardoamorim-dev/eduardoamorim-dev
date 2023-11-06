@@ -37,6 +37,28 @@
 
 ---
 
+## 📑 Informações sobre minha conta GitHub
+
+
+<div align="center"> 
+  <a href="https://github.com/caduamorimm-dev">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caduamorimm-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduamorimm-dev&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+  
+<!-- <div align="center">
+<p><img alingn="center" src="https://profile-counter.glitch.me/caduamorimm-dev/count.svg" /></p>  
+</div> 
+
+<div>
+<a href="https://github.com/caduamorimm-dev/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=caduamorimm-dev&bg_color=0D1117&color=248e76&line=99d1cd&point=FFFFFF&hide_border=true"/> </a>
+</div>
+ -->
+
+
+
+---
+
 ## 🚀 Minhas Skills
 
 > Aplicações e Dados
@@ -80,29 +102,6 @@
 <a><img height="25" src="https://img.shields.io/badge/-Trello-%230052CC?logo=Trello&colorlogo=white" alt="Trello" style="vertical-align:top margin:6px 4px"/></a> -->
 
 #
-
----
-
-## 📑 Informações sobre minha conta GitHub
-
-
-<div align="center"> 
-  <a href="https://github.com/caduamorimm-dev">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caduamorimm-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduamorimm-dev&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-  
-<!-- <div align="center">
-<p><img alingn="center" src="https://profile-counter.glitch.me/caduamorimm-dev/count.svg" /></p>  
-</div> 
-
-<div>
-<a href="https://github.com/caduamorimm-dev/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=caduamorimm-dev&bg_color=0D1117&color=248e76&line=99d1cd&point=FFFFFF&hide_border=true"/> </a>
-</div>
- -->
-
-  
-##
 
 ---
 
