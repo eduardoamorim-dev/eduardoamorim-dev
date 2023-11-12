@@ -28,7 +28,7 @@
 <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/carlos-eduardo-amorim-silva-34583b214/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
 <!-- instagram -->
-  <a href="https://www.instagram.com/caduamorimm.dev/" target="_blank"><img height="25" src="https://img.shields.io/badge/-Instagram-%230A0A0A?logo=Instagram&colorlogo=white" style="vertical-align:top margin:6px 4px"></a>
+  <a href="https://www.instagram.com/caduamorim.dev/" target="_blank"><img height="25" src="https://img.shields.io/badge/-Instagram-%230A0A0A?logo=Instagram&colorlogo=white" style="vertical-align:top margin:6px 4px"></a>
 <!-- gmail -->
   <a href = "mailto:amorimm.dev@gmail.com"><img height="25" src="https://img.shields.io/badge/-Gmail-%230A0A0A?logo=Gmail&colorlogo=white" style="vertical-align:top margin:6px 4px"></a>
 <!-- dev.to -->
