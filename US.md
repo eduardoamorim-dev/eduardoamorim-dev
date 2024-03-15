@@ -1,6 +1,6 @@
 #
 
-## <div align="center"> 🧑‍💻 Hello, welcome I'm known as <strong>{Cadu Amorim}!</strong><p></div>
+## <div align="center"> 🧑‍💻 Hello, welcome.
 
 🧑‍💻 Software Development Intern with a strong interest in crafting efficient and user-centered solutions.
 
