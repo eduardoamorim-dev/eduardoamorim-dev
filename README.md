@@ -41,9 +41,9 @@
 
 
 <div align="center"> 
-  <a href="https://github.com/caduamorimm-dev">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caduamorimm-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduamorimm-dev&layout=compact&langs_count=7&theme=gotham"/>
+  <a href="https://github.com/eduardoamorim-dev">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardoamorim-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoamorim-dev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <!-- <div align="center">
