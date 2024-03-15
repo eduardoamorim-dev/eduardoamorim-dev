@@ -2,7 +2,7 @@
 
 <div align="center">Change language: <a href="https://github.com/caduamorimm-dev/caduamorimm-dev/blob/main/US.md" target="_blank">🇺🇸</a></div>
 
-## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a). Pode me chamar de <strong>{Cadu Amorim}!</strong><p></div>
+## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a). 
 
 🧑‍💻 Estagiário em Desenvolvimento de Software com grande interesse em criar soluções eficientes e centradas no usuário. 
 
