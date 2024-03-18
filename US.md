@@ -12,7 +12,6 @@
 
 👯 Open to collaborations and seeking opportunities to contribute to innovative projects.
 
-📫 Feel free to reach out to me at amorimm.dev@gmail.com for any inquiries or opportunities. My portfolio will be available soon.
 
 
 <!--  I am the creator of the Audição Amiga project, a platform where the intention is to make YouTube videos available in subtitles for a better understanding of hearing impaired users. I do my best to bring a little more accessibility to the audiovisual world and consequently do the least, which is to give dignity and freedom to a disadvantaged group in the midst of technology. I am developing the system as I acquire new knowledge to implement, it is currently not available for use. -->
@@ -20,15 +19,17 @@
 ---
 
 <div align="center">
+<!-- Curriculo -->
+  <a href="https://drive.google.com/file/d/1plmOcuGwHwbdVjlmBwpAM6TxkMfwoEUW/view" target="_blank"><img height="25" src="https://img.shields.io/badge/-Baixar%20Curriculo-383f61?logo=Betfair&colorlogo=white"    style="vertical-align:top margin:6px 4px"></a>
 <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/carlos-eduardo-amorim-silva-34583b214/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
+  <a href="https://linkedin.com/in/eduardoamorimm-dev" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
 <!-- instagram -->
-  <a href="https://www.instagram.com/caduamorimm.dev/" target="_blank"><img height="25" src="https://img.shields.io/badge/-Instagram-%230A0A0A?logo=Instagram&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a>
+ <!-- <a href="https://www.instagram.com/caduamorim.dev/" target="_blank"><img height="25" src="https://img.shields.io/badge/-Instagram-%230A0A0A?logo=Instagram&colorlogo=white" style="vertical-align:top margin:6px 4px"></a> -->
 <!-- gmail -->
-  <a href = "mailto:amorimm.dev@gmail.com"><img height="25" src="https://img.shields.io/badge/-Gmail-%230A0A0A?logo=Gmail&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a>
-<!-- dev.to 
- <!-- <a href="https://dev.to/caduamorim" target="_blank"><img height="25" src="https://img.shields.io/badge/-Dev.to-%230A0A0A?logo=dev.to&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a>-->
-</div>
+  <a href = "mailto:amorimm.dev@gmail.com"><img height="25" src="https://img.shields.io/badge/-Gmail-%230A0A0A?logo=Gmail&colorlogo=white" style="vertical-align:top margin:6px 4px"></a>
+<!-- dev.to -->
+ <!-- <a href="https://dev.to/caduamorim" target="_blank"><img height="25" src="https://img.shields.io/badge/-Dev.to-%230A0A0A?logo=dev.to&colorlogo=white" style="vertical-align:top margin:6px 4px"></a>-->
+</div> 
 
 ---
 
