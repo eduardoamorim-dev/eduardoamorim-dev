@@ -42,7 +42,7 @@
 <div align="center"> 
   <a href="https://github.com/eduardoamorim-dev">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardoamorim-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoamorim-dev&layout=compact&langs_count=20&theme=gotham"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoamorim-dev&layout=compact&langs_count=30&theme=gotham"/>
 </div>
   
 <!-- <div align="center">
