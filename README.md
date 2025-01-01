@@ -4,7 +4,7 @@
 
 ## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a). 
 
-🧑‍💻 Estagiário em Desenvolvimento de Software com grande interesse em criar soluções eficientes e centradas no usuário. 
+🧑‍💻 Desenvolvedor de Software com grande interesse em criar soluções eficientes e centradas no usuário. 
 
  🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Triângulo Mineiro.
 
@@ -63,17 +63,23 @@
 > Aplicações e Dados
 
 <a><img height="25" src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white" alt="HTML5" style="vertical-align:top margin:6px 4px"></a>
-<a><img height="25" src="https://img.shields.io/badge/-CSS-%23379bd7?logo=css3&logoColor=whitee" alt="CSS" style="vertical-align:top margin:6px 4px"/>
+<a><img height="25" src="https://img.shields.io/badge/-CSS-%23379bd7?logo=css3&logoColor=white" alt="CSS" style="vertical-align:top margin:6px 4px"/>
 <a><img height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white" alt="Javascript" style="vertical-align:top margin:6px 4px"/></a>
-<a><img height="25" src="https://img.shields.io/badge/-PHP-%23379bd7?logo=php&logoColor=white" alt="PHP" style="vertical-align:top margin:6px 4px"/>
+<a><img height="25" src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=TypeScript&logoColor=white" alt="TypeScript" style="vertical-align:top margin:6px 4px"/></a>
+<a> <img height="25" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white" alt="React" style="vertical-align:top; margin:6px 4px" /> </a>
+<a> <img height="25" src="https://img.shields.io/badge/NestJS-%23E0234E?logo=nestjs&logoColor=white" alt="NestJS" style="vertical-align:top; margin:6px 4px" /> </a>
+<a> <img height="25" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="MySQL" style="vertical-align:top; margin:6px 4px" /> </a>
+<a> <img height="25" src="https://img.shields.io/badge/Prisma-%23323330?logo=prisma" alt="Prisma" style="vertical-align:top; margin:6px 4px" /> </a>
 <a><img height="25" src="https://img.shields.io/badge/C++-00599C?logo=Cplusplus&logoColor=white%22%20" alt="C++" style="vertical-align:top margin:6px 4px"/></a>
-<a><img height="25" src="https://img.shields.io/badge/C-%23181717?logo=C&logoColor=white%22%20alt=%22" alt="C" style="vertical-align:top margin:6px 4px"/></a>
+<!--<a> <img height="25" src="https://img.shields.io/badge/Rust-%23000000?logo=rust&logoColor=white" alt="Rust" style="vertical-align:top; margin:6px 4px" /> </a>
+    <a><img height="25" src="https://img.shields.io/badge/-PHP-%23379bd7?logo=php&logoColor=white" alt="PHP" style="vertical-align:top margin:6px 4px"/> 
+-->
+
+
 
 <!-- Futuras skills 
-<a><img height="25" src="https://img.shields.io/badge/-MySQL-323332?logo=MySQL&colorlogo=white" alt="MySQL" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-C%23-7b3399?logo=C-Sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white" alt="Bootstrap" style="vertical-align:top margin:6px 4px"/></a>
-<a><img height="25" src="https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white" alt="React" style="vertical-align:top margin:6px 4px"/></a>
  -->
 
 
@@ -88,7 +94,7 @@
 
 > Ferramentas de Desenvolvimento
 
-<a><img height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&colorlogo=white" alt="VisualStudioCode" style="vertical-align:top margin:6px 4px"/></a>
+<a><img height="25" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&colorlogo=white" alt="VisualStudioCode" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Notion-%23181717?logo=Notion&colorlogo=white" alt="Notion" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Figma-%23181717?logo=Figma&colorlogo=white" alt="Figma" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20XD-%23181717?logo=Adobe-XD&logocolor=white" alt="AdobeXD" style="vertical-align:top margin:6px 4px"/></a>
