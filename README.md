@@ -14,8 +14,7 @@
 
 👯 Aberto(a) a colaborações e buscando contribuir para projetos inovadores.
 
-
-<!-- 📫 Entre em contato comigo em amorimm.dev@gmail.com para qualquer dúvida ou oportunidade. Meu portfólio estara disponível em breve. -->
+📫 Entre em contato comigo em amorimm.dev@gmail.com para qualquer dúvida ou oportunidade. 
 
 <!--  ⚡ Curiosidade: Tenho grande afinidade por projetos de código aberto e acredito em retribuir à comunidade de desenvolvedores." -->
 
@@ -27,7 +26,7 @@
 <!-- Linkedin -->
   <a href="https://linkedin.com/in/eduardoamorimm-dev" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
 <!-- instagram -->
- <!-- <a href="https://www.instagram.com/caduamorim.dev/" target="_blank"><img height="25" src="https://img.shields.io/badge/-Instagram-%230A0A0A?logo=Instagram&colorlogo=white" style="vertical-align:top margin:6px 4px"></a> -->
+  <a> <img height="25" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white" alt="Instagram" style="vertical-align:top; margin:6px 4px" /> </a>
 <!-- gmail -->
   <a href = "mailto:amorimm.dev@gmail.com"><img height="25" src="https://img.shields.io/badge/-Gmail-%230A0A0A?logo=Gmail&colorlogo=white" style="vertical-align:top margin:6px 4px"></a>
 <!-- dev.to -->
@@ -45,16 +44,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoamorim-dev&layout=compact&langs_count=30&theme=gotham"/>
 </div>
   
-<!-- <div align="center">
+ <div align="center">
 <p><img alingn="center" src="https://profile-counter.glitch.me/caduamorimm-dev/count.svg" /></p>  
 </div> 
-
-<div>
-<a href="https://github.com/caduamorimm-dev/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=caduamorimm-dev&bg_color=0D1117&color=248e76&line=99d1cd&point=FFFFFF&hide_border=true"/> </a>
-</div>
- -->
-
-
 
 ---
 
@@ -74,8 +66,6 @@
 <!--<a> <img height="25" src="https://img.shields.io/badge/Rust-%23000000?logo=rust&logoColor=white" alt="Rust" style="vertical-align:top; margin:6px 4px" /> </a>
     <a><img height="25" src="https://img.shields.io/badge/-PHP-%23379bd7?logo=php&logoColor=white" alt="PHP" style="vertical-align:top margin:6px 4px"/> 
 -->
-
-
 
 <!-- Futuras skills 
 <a><img height="25" src="https://img.shields.io/badge/-C%23-7b3399?logo=C-Sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"/></a>
@@ -97,16 +87,7 @@
 <a><img height="25" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&colorlogo=white" alt="VisualStudioCode" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Notion-%23181717?logo=Notion&colorlogo=white" alt="Notion" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Figma-%23181717?logo=Figma&colorlogo=white" alt="Figma" style="vertical-align:top margin:6px 4px"/></a>
-<a><img height="25" src="https://img.shields.io/badge/-Adobe%20XD-%23181717?logo=Adobe-XD&logocolor=white" alt="AdobeXD" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-Adobe%20Photoshop-%23181717?logo=Adobe-Photoshop&logocolor=white" alt="Ph" style="vertical-align:top margin:6px 4px"/></a>
-
-<!-- <a><img height="25" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual-Studio&colorlogo=white" alt="VisualStudioCode" style="vertical-align:top margin:6px 4px"/></a> -->
-
-
-
-<!-- Futuras skills 
-<a><img height="25" src="https://img.shields.io/badge/-Azure%20DevOps-%230078D7?logo=Azure-DevOps&colorlogo=white" alt="Azure" style="vertical-align:top margin:6px 4px"/></a> 
-<a><img height="25" src="https://img.shields.io/badge/-Trello-%230052CC?logo=Trello&colorlogo=white" alt="Trello" style="vertical-align:top margin:6px 4px"/></a> -->
 
 #
 
