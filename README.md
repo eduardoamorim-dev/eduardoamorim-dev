@@ -10,9 +10,9 @@
 
 🔭 Trabalhando em projetos pessoais para aprimorar minhas habilidades e expandir meu portfólio.
 
-🌱 Aprendendo ativamente JavaScript, ReactJS e TypeScript para me manter atualizado(a) com as tendências do setor.
+🌱 Aprendendo ativamente JavaScript, ReactJS e TypeScript para me manter atualizado com as tendências do setor.
 
-👯 Aberto(a) a colaborações e buscando contribuir para projetos inovadores.
+👯 Aberto a colaborações e buscando contribuir para projetos inovadores.
 
 📫 Entre em contato comigo em amorimm.dev@gmail.com para qualquer dúvida ou oportunidade. 
 
