@@ -55,12 +55,12 @@
 <a><img height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white" alt="Javascript" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=TypeScript&logoColor=white" alt="TypeScript" style="vertical-align:top margin:6px 4px"/></a>
 <a> <img height="25" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white" alt="React" style="vertical-align:top; margin:6px 4px" /> </a>
-<a> <img height="25" src="https://img.shields.io/badge/NestJS-%23E0234E?logo=nestjs&logoColor=white" alt="NestJS" style="vertical-align:top; margin:6px 4px" /> </a>
 <a> <img height="25" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="MySQL" style="vertical-align:top; margin:6px 4px" /> </a>
-<a> <img height="25" src="https://img.shields.io/badge/Prisma-%23323330?logo=prisma" alt="Prisma" style="vertical-align:top; margin:6px 4px" /> </a>
 <a><img height="25" src="https://img.shields.io/badge/C++-00599C?logo=Cplusplus&logoColor=white%22%20" alt="C++" style="vertical-align:top margin:6px 4px"/></a>
 <!--<a> <img height="25" src="https://img.shields.io/badge/Rust-%23000000?logo=rust&logoColor=white" alt="Rust" style="vertical-align:top; margin:6px 4px" /> </a>
     <a><img height="25" src="https://img.shields.io/badge/-PHP-%23379bd7?logo=php&logoColor=white" alt="PHP" style="vertical-align:top margin:6px 4px"/> 
+    <a> <img height="25" src="https://img.shields.io/badge/NestJS-%23E0234E?logo=nestjs&logoColor=white" alt="NestJS" style="vertical-align:top; margin:6px 4px" /> </a>
+    <a> <img height="25" src="https://img.shields.io/badge/Prisma-%23323330?logo=prisma" alt="Prisma" style="vertical-align:top; margin:6px 4px" /> </a>
 -->
 
 <!-- Futuras skills 
