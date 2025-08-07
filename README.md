@@ -1,6 +1,6 @@
 #
 
-<!-- <div align="center">Change language: <a href="https://github.com/caduamorimm-dev/caduamorimm-dev/blob/main/US.md" target="_blank">🇺🇸</a></div> -->
+<div align="center">Change language: <a href="https://github.com/caduamorimm-dev/caduamorimm-dev/blob/main/US.md" target="_blank">🇺🇸</a></div>
 
 ## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a). 
 
