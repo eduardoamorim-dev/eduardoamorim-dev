@@ -4,7 +4,7 @@
 
 ## <div align="center"> 🧑‍💻 Olá, seja bem-vindo(a)!
 
-🏦 Desenvolvedor de Software na **Sicoob Coopacredi**, focado em **otimização de processos internos** e desenvolvimento de soluções para diversos setores da cooperativa.
+Desenvolvedor de Software na **Sicoob Coopacredi**, focado em **otimização de processos internos** e desenvolvimento de soluções para diversos setores da cooperativa.
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Triângulo Mineiro (IFTM).
 
