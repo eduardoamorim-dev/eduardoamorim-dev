@@ -2,15 +2,40 @@
 
 <div align="center">Change language: <a href="https://github.com/caduamorimm-dev/caduamorimm-dev/blob/main/US.md" target="_blank">🇺🇸</a></div>
 
-## <div align="center"> 🧑‍💻 Olá, seja bem vindo (a). 
+## <div align="center"> 🧑‍💻 Olá, seja bem-vindo(a)!
 
-🧑‍💻 Desenvolvedor de Software com grande interesse em criar soluções eficientes e centradas no usuário. 
+🏦 Desenvolvedor de Software na **Sicoob Coopacredi**, focado em **otimização de processos internos** e desenvolvimento de soluções para diversos setores da cooperativa.
 
- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Triângulo Mineiro.
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Triângulo Mineiro (IFTM).
 
-🔭 Trabalhando em projetos pessoais para aprimorar minhas habilidades e expandir meu portfólio.
+💼 **Experiência atual:**
+- Desenvolvimento de sistemas web com Django para automação e otimização de processos internos
+- Soluções para múltiplos departamentos: análise de crédito, gestão administrativa, controle de dados
+- Sistemas de gestão com hierarquias organizacionais complexas (permissões, setores, diretorias)
+- Integração e processamento de dados com Excel e MySQL
 
-🌱 Aprendendo ativamente JavaScript, ReactJS e TypeScript para me manter atualizado com as tendências do setor.
+🚀 **Stack Principal:**
+- **Backend:** Python, Django, MySQL
+- **Frontend:** JavaScript, HTML/CSS
+- **Mobile:** React Native, Expo
+- **Automação:** Scripts Python para processamento de dados.
+
+🔭 **Projetos em desenvolvimento:**
+- Ferramentas de automação para otimização de processos internos
+- Aplicações web para diferentes setores da organização
+
+🌱 **Atualmente aprofundando conhecimentos em:**
+- JavaScript, ReactJS e TypeScript
+- Arquitetura de sistemas corporativos
+- Boas práticas em Django e desenvolvimento web
+
+---
+
+<div align="center">
+  
+*"Desenvolvendo soluções que otimizam processos e facilitam o trabalho em cooperativas financeiras"*
+
+</div>
 
 <!--  👯 Aberto a colaborações e buscando contribuir para projetos inovadores. -->
 
