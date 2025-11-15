@@ -10,7 +10,7 @@
 
 💼 **Experiência atual:**
 - Desenvolvimento de sistemas web com Django para automação e otimização de processos internos
-- Soluções para múltiplos departamentos: análise de crédito, gestão administrativa, controle de dados
+- Soluções para múltiplos departamentos
 - Sistemas de gestão com hierarquias organizacionais complexas (permissões, setores, diretorias)
 - Integração e processamento de dados com Excel e MySQL
 
