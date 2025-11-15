@@ -25,9 +25,8 @@ Desenvolvedor de Software na **Sicoob Coopacredi**, focado em **otimização de 
 - Aplicações web para diferentes setores da organização
 
 🌱 **Atualmente aprofundando conhecimentos em:**
-- JavaScript, ReactJS e TypeScript
-- Arquitetura de sistemas corporativos
-- Boas práticas em Django e desenvolvimento web
+- Arquitetura de software e padrões de projeto
+- Ecossistema Python/Django e boas práticas
 
 ---
 
