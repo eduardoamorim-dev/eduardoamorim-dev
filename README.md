@@ -15,8 +15,8 @@ Desenvolvedor de Software na **Sicoob Coopacredi**, focado em **otimização de 
 - Integração e processamento de dados com Excel e MySQL
 
 🚀 **Stack Principal:**
-- **Backend:** Python, Django, MySQL
-- **Frontend:** JavaScript, HTML/CSS
+- **Backend:** Python, Django, Node.js, MySQL
+- **Frontend:** React, JavaScript, HTML/CSS
 - **Mobile:** React Native, Expo
 - **Automação:** Scripts Python para processamento de dados.
 
@@ -36,27 +36,11 @@ Desenvolvedor de Software na **Sicoob Coopacredi**, focado em **otimização de 
 
 </div>
 
-<!--  👯 Aberto a colaborações e buscando contribuir para projetos inovadores. -->
-
-<!--   📫 Entre em contato comigo em amorimm.dev@gmail.com para qualquer dúvida ou oportunidade.  -->
-
-<!--  ⚡ Curiosidade: Tenho grande afinidade por projetos de código aberto e acredito em retribuir à comunidade de desenvolvedores." -->
-
 ---
 
 <div align="center">
-<!-- Curriculo 
-  <a href="https://drive.google.com/file/d/1plmOcuGwHwbdVjlmBwpAM6TxkMfwoEUW/view" target="_blank"><img height="25" src="https://img.shields.io/badge/-Baixar%20Curriculo-383f61?logo=Betfair&colorlogo=white"    style="vertical-align:top margin:6px 4px"></a> -->
-<!-- Linkedin -->
-  <a href="https://linkedin.com/in/eduardoamorim-dev" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
-<!-- instagram
-  <a href = "https://www.instagram.com/eduardoamorim.dev/"> <img height="25" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white" alt="Instagram" style="vertical-align:top; margin:6px 4px" /> </a>
--->
- 
-<!-- gmail -->
-  <a href = "mailto:amorimm.dev@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-%23D44638?logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:top margin:6px 4px"></a>
-<!-- dev.to -->
- <!-- <a href="https://dev.to/caduamorim" target="_blank"><img height="25" src="https://img.shields.io/badge/-Dev.to-%230A0A0A?logo=dev.to&colorlogo=white" style="vertical-align:top margin:6px 4px"></a>-->
+<a href="https://linkedin.com/in/eduardoamorim-dev" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=LinkedIn&colorlogo=white" target="_blank" style="vertical-align:top margin:6px 4px"></a> 
+<a href = "mailto:amorimm.dev@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-%23D44638?logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:top margin:6px 4px"></a>
 </div> 
 
 ---
@@ -78,23 +62,17 @@ Desenvolvedor de Software na **Sicoob Coopacredi**, focado em **otimização de 
 
 <a><img height="25" src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white" alt="HTML5" style="vertical-align:top margin:6px 4px"></a>
 <a><img height="25" src="https://img.shields.io/badge/-CSS-%23379bd7?logo=css3&logoColor=white" alt="CSS" style="vertical-align:top margin:6px 4px"/>
+<a><img height="25" src="https://img.shields.io/badge/-Tailwind_CSS-%2338B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="vertical-align:top margin:6px 4px"></a>
 <a><img height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white" alt="Javascript" style="vertical-align:top margin:6px 4px"/></a>
 <a><img height="25" src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=TypeScript&logoColor=white" alt="TypeScript" style="vertical-align:top margin:6px 4px"/></a>
+<a><img height="25" src="https://img.shields.io/badge/-Node.js-%23339933?logo=node.js&logoColor=white" alt="Node.js" style="vertical-align:top margin:6px 4px"></a>
+<a><img height="25" src="https://img.shields.io/badge/-Express.js-%23000000?logo=express&logoColor=white" alt="Express.js" style="vertical-align:top margin:6px 4px"></a>
 <a> <img height="25" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white" alt="React" style="vertical-align:top; margin:6px 4px" /> </a>
+<a><img height="25" src="https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white" alt="Python" style="vertical-align:top margin:6px 4px"></a>
+<a><img height="25" src="https://img.shields.io/badge/-Django-%23092E20?logo=django&logoColor=white" alt="Django" style="vertical-align:top margin:6px 4px"></a>
 <a> <img height="25" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="MySQL" style="vertical-align:top; margin:6px 4px" /> </a>
+<a><img height="25" src="https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&logoColor=white" alt="MongoDB" style="vertical-align:top margin:6px 4px"></a>
 <a><img height="25" src="https://img.shields.io/badge/C++-00599C?logo=Cplusplus&logoColor=white%22%20" alt="C++" style="vertical-align:top margin:6px 4px"/></a>
-<!--<a> <img height="25" src="https://img.shields.io/badge/Rust-%23000000?logo=rust&logoColor=white" alt="Rust" style="vertical-align:top; margin:6px 4px" /> </a>
-    <a><img height="25" src="https://img.shields.io/badge/-PHP-%23379bd7?logo=php&logoColor=white" alt="PHP" style="vertical-align:top margin:6px 4px"/> 
-    <a> <img height="25" src="https://img.shields.io/badge/NestJS-%23E0234E?logo=nestjs&logoColor=white" alt="NestJS" style="vertical-align:top; margin:6px 4px" /> </a>
-    <a> <img height="25" src="https://img.shields.io/badge/Prisma-%23323330?logo=prisma" alt="Prisma" style="vertical-align:top; margin:6px 4px" /> </a>
--->
-
-<!-- Futuras skills 
-<a><img height="25" src="https://img.shields.io/badge/-C%23-7b3399?logo=C-Sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"/></a>
-<a><img height="25" src="https://img.shields.io/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white" alt="Bootstrap" style="vertical-align:top margin:6px 4px"/></a>
- -->
-
-
 ##
 
 > DevOps
@@ -114,5 +92,3 @@ Desenvolvedor de Software na **Sicoob Coopacredi**, focado em **otimização de 
 #
 
 ---
-
-
